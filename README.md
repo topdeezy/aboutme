@@ -1,2 +1,2 @@
 # aboutme
-things about me
+my info
