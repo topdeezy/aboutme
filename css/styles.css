@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #40514e;
+  line-height:2;
   
 }
 
@@ -35,6 +36,10 @@ h4 {
   border-radius: 100%;
   width: 15%;
 }
+.profile p{
+  margin: auto;
+width:50%
+ }
 
 .topcontainer {
   background-color: #CEE5D0;
